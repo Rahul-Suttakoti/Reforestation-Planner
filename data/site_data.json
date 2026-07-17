@@ -1,0 +1,93 @@
+{
+  "site_name": "Plot near Harihar, Karnataka",
+  "bounding_box": {
+    "lat_min": 14.428519,
+    "lon_min": 75.434234,
+    "lat_max": 14.435408,
+    "lon_max": 75.443679
+  },
+  "samples": [
+    {
+      "lat": 14.42852,
+      "lon": 75.43423,
+      "avg_solar_radiation_mj_m2_day": 19.76,
+      "avg_precipitation_mm_day": 3.74,
+      "avg_temperature_c": 24.92,
+      "soil_ph": 7.1,
+      "soil_organic_carbon_dg_kg": 206,
+      "elevation_m": 593.0
+    },
+    {
+      "lat": 14.42852,
+      "lon": 75.43896,
+      "avg_solar_radiation_mj_m2_day": 19.76,
+      "avg_precipitation_mm_day": 3.74,
+      "avg_temperature_c": 24.92,
+      "soil_ph": 7.1,
+      "soil_organic_carbon_dg_kg": 202,
+      "elevation_m": 586.0
+    },
+    {
+      "lat": 14.42852,
+      "lon": 75.44368,
+      "avg_solar_radiation_mj_m2_day": 19.76,
+      "avg_precipitation_mm_day": 3.74,
+      "avg_temperature_c": 24.92,
+      "elevation_m": 583.0
+    },
+    {
+      "lat": 14.43196,
+      "lon": 75.43423,
+      "avg_solar_radiation_mj_m2_day": 19.76,
+      "avg_precipitation_mm_day": 3.74,
+      "avg_temperature_c": 24.92,
+      "soil_ph": 6.9,
+      "soil_organic_carbon_dg_kg": 215,
+      "elevation_m": 586.0
+    },
+    {
+      "lat": 14.43196,
+      "lon": 75.43896,
+      "avg_solar_radiation_mj_m2_day": 19.76,
+      "avg_precipitation_mm_day": 3.74,
+      "avg_temperature_c": 24.92,
+      "elevation_m": 583.0
+    },
+    {
+      "lat": 14.43196,
+      "lon": 75.44368,
+      "avg_solar_radiation_mj_m2_day": 19.76,
+      "avg_precipitation_mm_day": 3.74,
+      "avg_temperature_c": 24.92,
+      "soil_ph": 7.1,
+      "soil_organic_carbon_dg_kg": 199,
+      "elevation_m": 581.0
+    },
+    {
+      "lat": 14.43541,
+      "lon": 75.43423,
+      "avg_solar_radiation_mj_m2_day": 19.76,
+      "avg_precipitation_mm_day": 3.74,
+      "avg_temperature_c": 24.92,
+      "soil_ph": 6.9,
+      "soil_organic_carbon_dg_kg": 207,
+      "elevation_m": 586.0
+    },
+    {
+      "lat": 14.43541,
+      "lon": 75.43896,
+      "avg_solar_radiation_mj_m2_day": 19.76,
+      "avg_precipitation_mm_day": 3.74,
+      "avg_temperature_c": 24.92,
+      "elevation_m": 587.0
+    },
+    {
+      "lat": 14.43541,
+      "lon": 75.44368,
+      "avg_solar_radiation_mj_m2_day": 19.76,
+      "avg_precipitation_mm_day": 3.74,
+      "avg_temperature_c": 24.92,
+      "elevation_m": 581.0
+    }
+  ]
+}

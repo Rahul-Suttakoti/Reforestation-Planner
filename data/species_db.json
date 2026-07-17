@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Azadirachta indica",
+    "common_name": "Neem",
+    "soil_ph_range": [6.2, 8.5],
+    "min_annual_rainfall_mm": 400,
+    "max_annual_rainfall_mm": 1500,
+    "min_sunlight_hours": 6,
+    "mature_canopy_radius_m": 7.5,
+    "carbon_sequestration_kg_per_year": 18.0,
+    "native": true
+  },
+  {
+    "name": "Ficus benghalensis",
+    "common_name": "Banyan",
+    "soil_ph_range": [5.5, 7.5],
+    "min_annual_rainfall_mm": 750,
+    "max_annual_rainfall_mm": 2500,
+    "min_sunlight_hours": 5,
+    "mature_canopy_radius_m": 15.0,
+    "carbon_sequestration_kg_per_year": 35.0,
+    "native": true
+  },
+  {
+    "name": "Tectona grandis",
+    "common_name": "Teak",
+    "soil_ph_range": [6.0, 8.0],
+    "min_annual_rainfall_mm": 900,
+    "max_annual_rainfall_mm": 2500,
+    "min_sunlight_hours": 6,
+    "mature_canopy_radius_m": 5.0,
+    "carbon_sequestration_kg_per_year": 22.5,
+    "native": true
+  },
+  {
+    "name": "Pongamia pinnata",
+    "common_name": "Indian Beech",
+    "soil_ph_range": [5.0, 8.0],
+    "min_annual_rainfall_mm": 500,
+    "max_annual_rainfall_mm": 2500,
+    "min_sunlight_hours": 5,
+    "mature_canopy_radius_m": 6.0,
+    "carbon_sequestration_kg_per_year": 15.5,
+    "native": true
+  },
+  {
+    "name": "Delonix regia",
+    "common_name": "Gulmohar",
+    "soil_ph_range": [5.5, 7.8],
+    "min_annual_rainfall_mm": 600,
+    "max_annual_rainfall_mm": 2000,
+    "min_sunlight_hours": 6,
+    "mature_canopy_radius_m": 8.0,
+    "carbon_sequestration_kg_per_year": 20.0,
+    "native": false
+  },
+  {
+    "name": "Terminalia arjuna",
+    "common_name": "Arjuna",
+    "soil_ph_range": [6.5, 8.5],
+    "min_annual_rainfall_mm": 600,
+    "max_annual_rainfall_mm": 2000,
+    "min_sunlight_hours": 5,
+    "mature_canopy_radius_m": 7.0,
+    "carbon_sequestration_kg_per_year": 24.0,
+    "native": true
+  },
+  {
+    "name": "Bambusa bambos",
+    "common_name": "Thorny Bamboo",
+    "soil_ph_range": [4.5, 7.5],
+    "min_annual_rainfall_mm": 700,
+    "max_annual_rainfall_mm": 3000,
+    "min_sunlight_hours": 4,
+    "mature_canopy_radius_m": 4.0,
+    "carbon_sequestration_kg_per_year": 12.0,
+    "native": true
+  },
+  {
+    "name": "Mangifera indica",
+    "common_name": "Mango",
+    "soil_ph_range": [5.5, 7.5],
+    "min_annual_rainfall_mm": 750,
+    "max_annual_rainfall_mm": 2500,
+    "min_sunlight_hours": 6,
+    "mature_canopy_radius_m": 9.0,
+    "carbon_sequestration_kg_per_year": 27.0,
+    "native": true
+  }
+]
