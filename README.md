@@ -42,7 +42,30 @@ capture and biodiversity within that constraint.
 6. **Visualization** (`src/visualize.py`) — renders the layout to scale,
    color-coded by species.
 
-## Setup
+## Interactive Web Platform
+
+The project includes an interactive web platform with a **FastAPI backend** and a **React + Vite + Tailwind CSS frontend** featuring:
+- **Interactive Satellite GIS Map**: Select study sites worldwide, inspect real satellite imagery via Leaflet / Esri World Imagery, and view planted tree canopies overlaid directly onto satellite coordinates.
+- **Live Annealing Visualization**: Real-time WebSocket streaming of simulated annealing moves, temperature cooling, and tree packing on a high-performance 2D Canvas.
+- **Scientific Baseline Scorecard**: Side-by-side comparison against naive monoculture planting (+288% carbon gain benchmark).
+- **Shannon-Wiener Biodiversity Index & Canopy Metrics**: Real-time biodiversity entropy and geometric canopy coverage percentage.
+
+### Quick Start (Web Platform)
+
+```bash
+# 1. Run the unified platform (FastAPI + React SPA)
+npm start
+# -> Access at http://localhost:8000
+
+# 2. Or run in hot-reloading development mode:
+# Terminal 1:
+npm run backend
+# Terminal 2:
+npm run frontend
+# -> Access at http://localhost:5173
+```
+
+## Setup (CLI & Legacy Scripts)
 
 ```bash
 pip install -r requirements.txt

@@ -1,0 +1,23 @@
+{
+  "name": "algorithmic-reforestation-planner",
+  "version": "1.0.0",
+  "description": "Interactive Web Platform for Algorithmic Reforestation Planning using Simulated Annealing and Satellite GIS.",
+  "scripts": {
+    "start": ".\\.venv\\Scripts\\python -m uvicorn backend.app.main:app --host 0.0.0.0 --port 8000",
+    "backend": ".\\.venv\\Scripts\\python -m uvicorn backend.app.main:app --reload --host 0.0.0.0 --port 8000",
+    "frontend": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "test:backend": ".\\.venv\\Scripts\\python tests\\test_backend.py"
+  },
+  "keywords": [
+    "reforestation",
+    "simulated-annealing",
+    "satellite-gis",
+    "fastapi",
+    "react",
+    "vite",
+    "tailwind"
+  ],
+  "author": "Google DeepMind & User",
+  "license": "Apache-2.0"
+}

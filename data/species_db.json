@@ -67,13 +67,13 @@
   },
   {
     "name": "Bambusa bambos",
-    "common_name": "Thorny Bamboo",
+    "common_name": "Giant Thorny Bamboo",
     "soil_ph_range": [4.5, 7.5],
     "min_annual_rainfall_mm": 700,
     "max_annual_rainfall_mm": 3000,
     "min_sunlight_hours": 4,
     "mature_canopy_radius_m": 4.0,
-    "carbon_sequestration_kg_per_year": 12.0,
+    "carbon_sequestration_kg_per_year": 14.0,
     "native": true
   },
   {
@@ -85,6 +85,116 @@
     "min_sunlight_hours": 6,
     "mature_canopy_radius_m": 9.0,
     "carbon_sequestration_kg_per_year": 27.0,
+    "native": true
+  },
+  {
+    "name": "Dalbergia sissoo",
+    "common_name": "Shisham / Indian Rosewood",
+    "soil_ph_range": [5.5, 8.2],
+    "min_annual_rainfall_mm": 500,
+    "max_annual_rainfall_mm": 2000,
+    "min_sunlight_hours": 6,
+    "mature_canopy_radius_m": 6.0,
+    "carbon_sequestration_kg_per_year": 21.0,
+    "native": true
+  },
+  {
+    "name": "Syzygium cumini",
+    "common_name": "Jamun / Black Plum",
+    "soil_ph_range": [5.5, 7.5],
+    "min_annual_rainfall_mm": 800,
+    "max_annual_rainfall_mm": 3000,
+    "min_sunlight_hours": 5,
+    "mature_canopy_radius_m": 7.5,
+    "carbon_sequestration_kg_per_year": 25.0,
+    "native": true
+  },
+  {
+    "name": "Madhuca longifolia",
+    "common_name": "Mahua",
+    "soil_ph_range": [5.5, 8.2],
+    "min_annual_rainfall_mm": 600,
+    "max_annual_rainfall_mm": 2000,
+    "min_sunlight_hours": 5.5,
+    "mature_canopy_radius_m": 8.5,
+    "carbon_sequestration_kg_per_year": 26.5,
+    "native": true
+  },
+  {
+    "name": "Phyllanthus emblica",
+    "common_name": "Amla / Indian Gooseberry",
+    "soil_ph_range": [6.0, 8.5],
+    "min_annual_rainfall_mm": 500,
+    "max_annual_rainfall_mm": 1800,
+    "min_sunlight_hours": 6,
+    "mature_canopy_radius_m": 4.0,
+    "carbon_sequestration_kg_per_year": 11.5,
+    "native": true
+  },
+  {
+    "name": "Prosopis cineraria",
+    "common_name": "Khejri",
+    "soil_ph_range": [7.0, 9.2],
+    "min_annual_rainfall_mm": 150,
+    "max_annual_rainfall_mm": 800,
+    "min_sunlight_hours": 7,
+    "mature_canopy_radius_m": 4.5,
+    "carbon_sequestration_kg_per_year": 14.0,
+    "native": true
+  },
+  {
+    "name": "Albizia lebbeck",
+    "common_name": "Siris / Black Siris",
+    "soil_ph_range": [5.0, 8.5],
+    "min_annual_rainfall_mm": 500,
+    "max_annual_rainfall_mm": 2500,
+    "min_sunlight_hours": 5,
+    "mature_canopy_radius_m": 7.0,
+    "carbon_sequestration_kg_per_year": 23.0,
+    "native": true
+  },
+  {
+    "name": "Casuarina equisetifolia",
+    "common_name": "Whistling Pine / Kattadi",
+    "soil_ph_range": [5.0, 8.6],
+    "min_annual_rainfall_mm": 600,
+    "max_annual_rainfall_mm": 3500,
+    "min_sunlight_hours": 6,
+    "mature_canopy_radius_m": 3.5,
+    "carbon_sequestration_kg_per_year": 16.0,
+    "native": false
+  },
+  {
+    "name": "Shorea robusta",
+    "common_name": "Sal",
+    "soil_ph_range": [5.0, 7.0],
+    "min_annual_rainfall_mm": 1000,
+    "max_annual_rainfall_mm": 3500,
+    "min_sunlight_hours": 5.5,
+    "mature_canopy_radius_m": 7.5,
+    "carbon_sequestration_kg_per_year": 28.0,
+    "native": true
+  },
+  {
+    "name": "Butea monosperma",
+    "common_name": "Palash / Flame of the Forest",
+    "soil_ph_range": [6.0, 8.5],
+    "min_annual_rainfall_mm": 450,
+    "max_annual_rainfall_mm": 1600,
+    "min_sunlight_hours": 6,
+    "mature_canopy_radius_m": 5.0,
+    "carbon_sequestration_kg_per_year": 15.0,
+    "native": true
+  },
+  {
+    "name": "Artocarpus heterophyllus",
+    "common_name": "Jackfruit",
+    "soil_ph_range": [5.5, 7.5],
+    "min_annual_rainfall_mm": 1000,
+    "max_annual_rainfall_mm": 3200,
+    "min_sunlight_hours": 5.5,
+    "mature_canopy_radius_m": 8.0,
+    "carbon_sequestration_kg_per_year": 30.0,
     "native": true
   }
 ]
